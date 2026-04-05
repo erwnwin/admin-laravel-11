@@ -33,8 +33,8 @@
                         <span class="material-symbols-outlined text-sm" data-icon="edit">edit</span>
                     </button>
                 </div>
-                <h1 class="text-2xl font-bold text-on-surface headline-text tracking-tight">Jordan Henderson</h1>
-                <p class="text-on-surface-variant text-sm mb-4">Senior Enterprise Administrator</p>
+                <h1 class="text-2xl font-bold text-on-surface headline-text tracking-tight">Erwin, S.Kom</h1>
+                <p class="text-on-surface-variant text-sm mb-4">Programmer</p>
                 <div class="flex gap-2">
                     <span
                         class="bg-indigo-50 text-indigo-700 text-[10px] font-bold px-3 py-1 rounded-full uppercase tracking-widest">Admin</span>
@@ -59,27 +59,27 @@
                             <label class="block text-sm font-semibold text-on-surface-variant">Full Name</label>
                             <input
                                 class="w-full bg-surface-container-highest/50 border-none rounded-lg px-4 py-3 text-on-surface focus:ring-2 focus:ring-primary/20 transition-all outline-none"
-                                type="text" value="Jordan Henderson" />
+                                type="text" value="Erwin, S.Kom" />
                         </div>
                         <div class="space-y-2">
                             <label class="block text-sm font-semibold text-on-surface-variant">Email Address</label>
                             <input
                                 class="w-full bg-surface-container-highest/50 border-none rounded-lg px-4 py-3 text-on-surface focus:ring-2 focus:ring-primary/20 transition-all outline-none"
-                                type="email" value="j.henderson@graphite.io" />
+                                type="email" value="erwin@codeta.id" />
                         </div>
                         <div class="space-y-2">
                             <label class="block text-sm font-semibold text-on-surface-variant">Role Title</label>
                             <input
                                 class="w-full bg-surface-container-highest/50 border-none rounded-lg px-4 py-3 text-on-surface focus:ring-2 focus:ring-primary/20 transition-all outline-none"
-                                type="text" value="Senior Enterprise Administrator" />
+                                type="text" value="Programmer" />
                         </div>
                         <div class="space-y-2">
                             <label class="block text-sm font-semibold text-on-surface-variant">Work Location</label>
                             <select
                                 class="w-full bg-surface-container-highest/50 border-none rounded-lg px-4 py-3 text-on-surface focus:ring-2 focus:ring-primary/20 transition-all outline-none appearance-none cursor-pointer">
-                                <option>London, United Kingdom</option>
-                                <option>New York, USA</option>
-                                <option>Berlin, Germany</option>
+                                <option>Makassar, Indonesia</option>
+                                <option>Jakarta, Indonesia</option>
+                                <option>Bandung, Indonesia</option>
                             </select>
                         </div>
                         <div class="md:col-span-2 pt-4 flex gap-3">

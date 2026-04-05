@@ -214,7 +214,7 @@
         <div class="mt-auto border-t border-slate-100 pt-6">
             <div class="flex items-center gap-3 px-4 py-3">
                 <img class="h-10 w-10 rounded-full object-cover"
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuD8mHnfStfoOBdfyAhdtN9NDEE5KtmAX4WdP8ObBOLmUOgP_8039jNGrCihb2rq_8HAczDKRHzHusyHOvkzHXxEzBwGhydllANEkL9lDYbZHvfjyUqqmuZEtMNgZt2rG24ZFyS3mtWxap5y19AVK4bvOdkR3JQiAzulmONTq6ltnhPBtDoU-yFlB1kNCWbnsjaXQC5uYxdBpfXhkf3w3MJ7-DFP-3h4TJ563f3rII0HL2xobHezKGKXmzwnrNTDFCDyOd1frMoXtkb3"
+                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuC02beaqRMja-q_13k7_WoAOPs-Ml7FZ3vnq6nJlOKU6FN_qxAL_TtdDuYZwV41g_3ZlS_AbsjmSv2L9miuCXEp0BnrbbG-pmk6QoCaDR7Vg9zgJimOtBCPG-ST_T1xXN3AIjtQL486jqWtBgejMJNBwMQtpxkNuXWi6PCOQzAA8p9bF91fpwkBDLpB78JmWaCjLIOI5aQT2N1U2WVgrVCtn1cwuqN1rKXzmL_FSCAp1uVJeTnNEVHqGP5vXZOSN33uymK-0uPgVTXT"
                     alt="Profile avatar">
                 <div>
                     <p class="text-sm font-bold leading-none text-on-surface">Erwin, S.Kom</p>

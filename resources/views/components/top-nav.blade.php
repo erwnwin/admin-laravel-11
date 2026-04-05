@@ -18,7 +18,7 @@
                 </div>
                 <div class="relative">
                     <img class="h-10 w-10 rounded-full object-cover ring-2 ring-white shadow-md transition-all group-hover:ring-primary/30"
-                        src="https://lh3.googleusercontent.com/aida-public/AB6AXuD5fsypzh7d-4LmS2aDjxMNtb1J_QX6M56fyaqk5PONtcCSI0-EpkCCa1KiV0AGFT7V_t3OvzBKFqO4hxxOEKx90MPqhx3nCU-qTD8jWOjHDvTOPwH15sOjXvBb22VbFamsFmChM8hn2EE98AAfdzcNES4869X44CgqgWJ_MPZIiJ_QSljUGU9v0kzg9St9uIlyKf2npX2RysrGT_p11ShiEmeeYfqges4BakhEkx2EUnNTy-QaEYqENUQiDRiaZEykO1Xc40UX4s57"
+                        src="https://lh3.googleusercontent.com/aida-public/AB6AXuC02beaqRMja-q_13k7_WoAOPs-Ml7FZ3vnq6nJlOKU6FN_qxAL_TtdDuYZwV41g_3ZlS_AbsjmSv2L9miuCXEp0BnrbbG-pmk6QoCaDR7Vg9zgJimOtBCPG-ST_T1xXN3AIjtQL486jqWtBgejMJNBwMQtpxkNuXWi6PCOQzAA8p9bF91fpwkBDLpB78JmWaCjLIOI5aQT2N1U2WVgrVCtn1cwuqN1rKXzmL_FSCAp1uVJeTnNEVHqGP5vXZOSN33uymK-0uPgVTXT"
                         alt="User profile avatar">
                     <div class="absolute bottom-0 right-0 h-3 w-3 rounded-full border-2 border-white bg-green-500">
                     </div>
@@ -32,7 +32,7 @@
                 <div class="rounded-2xl bg-gradient-to-br from-indigo-50 via-white to-slate-50 p-4">
                     <div class="flex items-center gap-3">
                         <img class="h-14 w-14 rounded-2xl object-cover shadow-sm"
-                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuD5fsypzh7d-4LmS2aDjxMNtb1J_QX6M56fyaqk5PONtcCSI0-EpkCCa1KiV0AGFT7V_t3OvzBKFqO4hxxOEKx90MPqhx3nCU-qTD8jWOjHDvTOPwH15sOjXvBb22VbFamsFmChM8hn2EE98AAfdzcNES4869X44CgqgWJ_MPZIiJ_QSljUGU9v0kzg9St9uIlyKf2npX2RysrGT_p11ShiEmeeYfqges4BakhEkx2EUnNTy-QaEYqENUQiDRiaZEykO1Xc40UX4s57"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuC02beaqRMja-q_13k7_WoAOPs-Ml7FZ3vnq6nJlOKU6FN_qxAL_TtdDuYZwV41g_3ZlS_AbsjmSv2L9miuCXEp0BnrbbG-pmk6QoCaDR7Vg9zgJimOtBCPG-ST_T1xXN3AIjtQL486jqWtBgejMJNBwMQtpxkNuXWi6PCOQzAA8p9bF91fpwkBDLpB78JmWaCjLIOI5aQT2N1U2WVgrVCtn1cwuqN1rKXzmL_FSCAp1uVJeTnNEVHqGP5vXZOSN33uymK-0uPgVTXT"
                             alt="Alex Rivers avatar">
                         <div class="min-w-0">
                             <p class="truncate text-sm font-black text-on-surface">Erwin, S.Kom</p>
